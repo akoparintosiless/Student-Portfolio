@@ -21,19 +21,19 @@ Serial Logic
 
 Arduino listens for serial inputs:
 
- Input	  |   Action
+ Input  |  Action
 
-R/r	   |   Toggle Red LED
+R/r     | Toggle Red LED
 
-G/g	   |   Toggle Green LED
+G/g     |   Toggle Green LED
 
-B/b	   |   Toggle Blue LED
+B/b     |   Toggle Blue LED
 
-A/a	   |   All LEDs ON
+A/a     |   All LEDs ON
 
-O/o	   |   All LEDs OFF
+O/o     |   All LEDs OFF
 
-Other	 |   Send error
+Other   |   Send error
 
 Python Script
 
@@ -42,8 +42,13 @@ Python Script
 - User chooses commands:
 
 [R] Red ON/OFF
+
 [G] Green ON/OFF
+
 [B] Blue ON/OFF
+
 [A] All ON
+
 [O] All OFF
+
 [X] Exit
