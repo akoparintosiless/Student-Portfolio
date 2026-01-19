@@ -1,4 +1,4 @@
-# Laboratory Activity #1: Working with Digital Signals
+# Laboratory Activity #1: Working with Digital Signals.
 
 ## Overview
 This activity introduces the Arduino as a tool for IoT systems by focusing on digital signal implementation. The project involves creating a "Running Light" circuit where LEDs turn on and off in a sequential pattern using digital outputs.
