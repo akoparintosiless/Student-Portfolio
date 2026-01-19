@@ -1,9 +1,9 @@
 Laboratory Activity #2 — Working with Analog Signals
 Objectives
 
-Explore analog signals in Arduino circuits.
+- Explore analog signals in Arduino circuits.
 
-Understand analog-to-digital manipulation using the map() function.
+- Understand analog-to-digital manipulation using the map() function.
 
 Description
 
@@ -11,17 +11,17 @@ This activity builds on Activity #1 by using analogWrite() to control LED bright
 
 Circuit Details
 
-Same setup with LEDs on pins 8–12.
+- Same setup with LEDs on pins 8–12.
 
-PWM capable pins used to vary brightness.
+- PWM capable pins used to vary brightness.
 
 Logic
 
-Running light pattern like Activity #1.
+- Running light pattern like Activity #1.
 
-Instead of only turning LEDs on/off — LED brightness gradually changes via PWM.
+- Instead of only turning LEDs on/off — LED brightness gradually changes via PWM.
 
-Uses while() loop and an array to manage pin modes and movements.
+- Uses while() loop and an array to manage pin modes and movements.
 
 Usage
 
