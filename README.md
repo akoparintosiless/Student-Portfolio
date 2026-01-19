@@ -1,7 +1,7 @@
 # Student Portfolio in COSC 111
 
 **Subject:** Internet of Things (IoT) Laboratory  
-**Student Name:** Lhojen Faith C. Bonganay  
+**Student Name:** Lester Jhon Villamor  
 **Section:** BSCS - 4C  
 **Instructor:** Johnroe Paulo Cañamaque  
 
@@ -14,7 +14,7 @@ This repository serves as a compilation of all laboratory activities, examinatio
 
 ---
 
-## 📂 Laboratory Activities
+## Laboratory Activities
 
 ### [Laboratory Activity 1: Working with Digital Signals](./Laboratory%20Activity%20%231%3A%20Working%20with%20Digital%20Signals)
 * **Focus:** Digital Output, `digitalWrite()`
@@ -46,7 +46,7 @@ This repository serves as a compilation of all laboratory activities, examinatio
 
 ---
 
-## 🏆 Examinations
+## Examinations
 
 ### [Midterm Exam: Smart Lighting System](./Laboratory%20Midterms%20Exam)
 * **Project:** Environment-Aware Automatic Lighting
